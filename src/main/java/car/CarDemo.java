@@ -7,6 +7,11 @@ public class CarDemo {
     private JTextField textField1;
     private JButton button1;
     private JPanel northpanel;
+    private JPanel rightPanel;
+    private JPanel leftPanel;
+    private JPanel worthPanel;
+    private JPanel centerPanel;
+    private JButton button2;
     String name;
 
     public static void main(String[] args){
